@@ -27,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/amarnath-shaji/LeetKeep/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/amarnath-shaji/LeetKeep/tree/master/0771-jewels-and-stones) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/amarnath-shaji/LeetKeep/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/amarnath-shaji/LeetKeep/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
