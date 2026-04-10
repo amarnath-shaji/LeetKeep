@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amarnath-shaji/LeetKeep/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/amarnath-shaji/LeetKeep/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/amarnath-shaji/LeetKeep/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/amarnath-shaji/LeetKeep/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/amarnath-shaji/LeetKeep/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
