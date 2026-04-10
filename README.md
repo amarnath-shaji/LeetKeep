@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/amarnath-shaji/LeetKeep/tree/master/0412-fizz-buzz) |
+| [2469-convert-the-temperature](https://github.com/amarnath-shaji/LeetKeep/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
