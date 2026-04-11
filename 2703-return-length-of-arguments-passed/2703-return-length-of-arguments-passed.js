@@ -3,9 +3,11 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-    
+    for(let i = 0 ; i <= args.length ;  i ++){
+        if(true){
             return args.length
-        
+        }
+    }
     
 };
 
