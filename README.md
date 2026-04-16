@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amarnath-shaji/LeetKeep/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/amarnath-shaji/LeetKeep/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/amarnath-shaji/LeetKeep/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/amarnath-shaji/LeetKeep/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/amarnath-shaji/LeetKeep/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/amarnath-shaji/LeetKeep/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/amarnath-shaji/LeetKeep/tree/master/2652-sum-multiples) |
